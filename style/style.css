@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header and navigation style*/
+nav{
+    display: flex;
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 48px;
+}
+.text-primary{
+    color: #FD6E0A;
+}
