@@ -36,3 +36,18 @@ nav li{
     margin: 50px;
 
 }
+/* banner style*/
+
+.banner{
+    margin: 0 200px;
+    display: flex;
+    align-items: center;
+}
+.banner-subtitle{
+    font-weight: 600px;
+    font-size: 45px;
+}
+.banner-title{
+    font-weight: 700px;
+    font-size: 85px;
+}
