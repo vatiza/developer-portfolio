@@ -2,9 +2,20 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
+.btn-primary{
+    font-weight: 700;
+font-size: 20px;
+    font-size: 20px;
+    color: #FFFFFF;
+    height: 64px;
+    background: #FD6E0A;
+border-radius: 5px;
+}
 /* header and navigation style*/
 nav{
     display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
 }
 .nav-title{
     font-weight: 800;
@@ -12,4 +23,12 @@ nav{
 }
 .text-primary{
     color: #FD6E0A;
+}
+nav ul{
+    display: flex;
+    
+}
+nav li{
+    list-style: none;
+    margin: 50px;
 }
