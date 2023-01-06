@@ -64,3 +64,31 @@ nav li{
     font-size: 18px;
     margin-bottom: 30px;
 }
+
+/*about style*/
+main{
+    max-width: 1140px;
+    color: #757575;
+    margin: 0 auto;
+}
+.about{
+    margin-top: 140px;
+    background: #fff8f3;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+
+}
+.section-title{
+font-weight: 700;
+font-size: 35px;
+
+    margin-bottom: 30px;
+
+}
+.section-discription{
+    margin-bottom: 30px;
+    font-size: 18px;
+    color: #757575;
+
+}
