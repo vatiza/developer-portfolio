@@ -92,3 +92,16 @@ font-size: 35px;
     color: #757575;
 
 }
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about .about-title{
+    font-size: 20px;
+    color: #757575;
+}
+.info-discription{
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+}
