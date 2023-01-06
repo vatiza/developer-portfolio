@@ -105,3 +105,8 @@ font-size: 35px;
     font-size: 20px;
     color: #474747;
 }
+/* what i do style */
+.skill-container{
+    display: flex;
+    justify-content: space-around;
+}
