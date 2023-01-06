@@ -24,7 +24,7 @@ header{
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 40px 150px;
+    padding: 40px 150px;
 }
 .nav-title{
     font-weight: 800;
@@ -132,4 +132,56 @@ font-size: 35px;
 }
 .skill-discription{
     color: #757575;
+}
+/* resume secton style */
+
+.resume-content{
+    display: flex;
+    gap: 20px;
+}
+.resume .title{
+    color: black;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.resume .sub-title{
+    margin-bottom: 10px;
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+.resume .discription{
+    font-size: 16px;
+    color: #757575;
+
+}
+.resume-btn{
+    margin-top: 50px;
+    text-align: center;
+}
+/* contact style */
+.contact{
+    display: flex;
+    gap: 100px;
+    padding:130px 200px;
+    background-color: #ffe4c5;
+}
+.contact .section-title{
+    text-align: left; 
+}
+.contact input[type="text"],input[type=email], textarea{
+    margin-bottom:24px ;
+    border: 0px;
+    width: 100%;
+    padding: 18px 30px;
+}
+input{
+    height: 64px;
+}
+.contact a{
+    text-decoration: none;
 }
