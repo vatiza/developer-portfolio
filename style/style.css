@@ -13,6 +13,13 @@ font-size: 20px;
     background: #FD6E0A;
 border-radius: 5px;
 }
+header{
+    background-color: #fff8f3;
+    background-image:url(../images/header_bg.png),url(../images/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right,bottom left;
+}
+
 /* header and navigation style*/
 nav{
     display: flex;
